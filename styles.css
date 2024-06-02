@@ -264,3 +264,29 @@
   .additional-info__languages-item {
     color: var(--secondary-text-color);
   }
+
+  .project-experience {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  .project__name {
+    color: var(--primary-text-color);
+    margin-bottom: 5px;
+  }
+  
+  .project__role {
+    color: var(--secondary-text-color);
+    font-size: 15px;
+    margin-bottom: 5px;
+  }
+  
+  .project__description {
+    color: var(--secondary-text-color);
+  }
+  
